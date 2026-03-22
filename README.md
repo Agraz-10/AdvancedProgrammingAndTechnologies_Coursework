@@ -1,5 +1,5 @@
 # 📘 Project Title
-*Insert your project name here (e.g., Smart Gym Management System)*
+*Yet to be decided*
 
 ---
 
